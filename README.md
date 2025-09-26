@@ -90,10 +90,10 @@ httpd.serve_forever()
 ```
 
 
-## OUTPU:
-![alt text](<Screenshot 2025-09-25 162618-1.png>)
+## OUTPUT:
+![alt text](<Screenshot 2025-09-25 162618.png>)
 
-![alt text](<Screenshot 2025-09-25 162747.png>)
+![alt text](<Screenshot 2025-09-25 162747-1.png>)
 
 
 
