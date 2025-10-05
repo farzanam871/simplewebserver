@@ -94,22 +94,11 @@ httpd.serve_forever()
 ```
 
 
-
 ## OUTPUT:
 
-![alt text](<Screenshot 2025-09-30 172626.png>)
+![alt text](<Screenshot 2025-10-05 074251.png>)
 
-![alt text](<Screenshot 2025-09-30 172823.png>)
-
-
-
-
-
-
-
-
-
-
+![alt text](<Screenshot 2025-10-05 074345.png>)
 
 
 
